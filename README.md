@@ -39,4 +39,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://app.daily.dev/gian30"><img src="https://api.daily.dev/devcards/9d0e25490a524f09aef3f4a15e49f0f8.png?r=f7q" width="400" alt="Gianluca's Dev Card"/></a>
+<a href="https://app.daily.dev/gian30"><img src="https://api.daily.dev/devcards/9d0e25490a524f09aef3f4a15e49f0f8.png?r=79p" width="400" alt="Gianluca's Dev Card"/></a>
