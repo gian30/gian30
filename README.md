@@ -1,8 +1,8 @@
 
 # About Me
 
-I am a fullstack software developer with a focus on automation, business digitalization, and building applications with robust backends and clean, modern frontends.  
-I am passionate about delivering reliable, maintainable software and continuously improving both technical skills and business understanding.
+I like building software and seeing it quietly handle the hard parts, helping people work smarter and quicker. 
+Clean frontends, robust backends—Java, Node.js, Angular, Python, and more :)
 
 ## 🌐 Socials
 
