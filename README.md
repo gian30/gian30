@@ -35,3 +35,10 @@ I’m a software developer who enjoys building simple, useful software and figur
 ## Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/lovecchio)
+
+## Apps I've built 🚀
+
+Besides my work as a software developer, I enjoy building my own products.
+
+- 👶 **[BabyDays](https://babydays.baby)** – A baby tracking app helping parents keep track of their little one's daily activities.
+- 🥑 **[KetoScanner](https://ketoscanner.io)** – A food scanning app that makes following a keto diet easier.
